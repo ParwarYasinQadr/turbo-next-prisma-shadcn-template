@@ -40,7 +40,7 @@ Ensure you have the following installed:
 
 ### Installation
 
-1. **Clone or use this template:**
+1. **Clone then:**
 
 ```bash
 cd turbo-next-prisma-shadcn-template
